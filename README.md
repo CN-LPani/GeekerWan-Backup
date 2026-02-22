@@ -2,7 +2,7 @@
 
 ## 免登录不限速
 ### 1. QQ闪传（14天自动销毁）
-#### 1.1 [https://qfile.qq.com/q/iClj9WALuw（更新于2026.2.23）]([https://qfile.qq.com/q/iClj9WALuw)
+#### 1.1 [https://qfile.qq.com/q/iClj9WALuw（更新于2026.2.23）](https://qfile.qq.com/q/iClj9WALuw)
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
 ├─ [CC字幕]零售机_游戏性能大横评_2026.srt
