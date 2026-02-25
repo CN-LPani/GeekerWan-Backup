@@ -1,9 +1,13 @@
 【持续更新】免登陆不限速极客湾2026零售机大横评补档链接
 
-在网页中便捷下载
+## 在网页中便捷下载
 
 > [Github Pages](https://maicy0609.github.io)
+> 
 > [大陆专属优化](https://scout-qcwu.upma.site)
+
+
+---
 
 > 链接失效、有下面没有提到的相关仓库或其它问题请及时[提交issue](https://github.com/CN-LPani/GeekerWan-Backup/issues/new)，本人忙，有时不一定即使补上，可以看看相关仓库
 
