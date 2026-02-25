@@ -61,7 +61,7 @@
 ├─ oppo.mp4
 └─ vivo.mp4
 ```
-#### 4.2 [Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup) [^1]（更新于2026.2.25）
+#### 4.2 [Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup)（更新于2026.2.25）
 在网页中便捷下载
 > [Github Pages](https://maicy0609.github.io)
 > 
@@ -111,5 +111,3 @@
 ### 6. [Geekerwan_2026_Reupload_Annual-Smartphone-Comparison-Review](https://github.com/ZheFeng7110/Geekerwan_2026_Reupload_Annual-Smartphone-Comparison-Review)
 
 ### 7. [BestSmartphoneForGaming](https://github.com/DiErTouShou/BestSmartphoneForGaming)
-
-[^1]: 引用仓库[Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup)
