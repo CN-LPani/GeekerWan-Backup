@@ -61,7 +61,7 @@
 ├─ oppo.mp4
 └─ vivo.mp4
 ```
-#### 4.2 [Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup)（更新于2026.2.25）[^1]
+#### 4.2 [Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup)[^1]（更新于2026.2.25）
 在网页中便捷下载
 > [Github Pages](https://maicy0609.github.io)
 > 
