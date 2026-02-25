@@ -50,8 +50,8 @@
 ├─ [封面]零售机_游戏性能大横评_2026.jpg
 └─ [CC字幕]零售机_游戏性能大横评_2026.srt
 ```
-### 4. Github Release
-#### 4.1 [GeekerWan-Backup](https://github.com/CN-LPani/GeekerWan-Backup)（更新于2026.2.23）
+### 4. Github Releases
+#### 4.1 [GeekerWan-Backup](https://github.com/CN-LPani/GeekerWan-Backup/releases)（更新于2026.2.23）
 ```
 2026.2.23
 ├─ Bullet comments.mp4
@@ -61,7 +61,7 @@
 ├─ oppo.mp4
 └─ vivo.mp4
 ```
-#### 4.2 [Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup) （更新于2026.2.25）
+#### 4.2 [Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup/releases) （更新于2026.2.25）
 在网页中便捷下载
 > [Github Pages](https://maicy0609.github.io)
 > 
