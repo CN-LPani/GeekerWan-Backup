@@ -97,6 +97,13 @@
 └─ [CC字幕]零售机_游戏性能大横评_2026.srt
 ```
 
+## 在线观看
+### 1. 荣耀俱乐部
+#### 1.1 [用户 玩机分享](https://club-api.c.hihonor.com/cn/thread-30058901-1-1.html?extra=page%3D1)
+
+### 2. 米游社
+#### 2.1 [用户 贪吃的烧花鸭](https://www.miyoushe.com/ys/article/73482205)
+
 # 相关仓库
 ### 1. [Geekerwan2026PhoneReview](https://github.com/Coriginbe/Geekerwan2026PhoneReview)
 
