@@ -132,3 +132,6 @@
 
 ### 7. [BestSmartphoneForGaming](https://github.com/DiErTouShou/BestSmartphoneForGaming)
 
+## Stars 历史
+[![Stargazers over time](https://starchart.cc/CN-LPani/GeekerWan-Backup.svg?variant=adaptive)](https://starchart.cc/CN-LPani/GeekerWan-Backup)
+
