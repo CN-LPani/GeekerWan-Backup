@@ -1,19 +1,17 @@
 # 【持续更新】免登陆不限速极客湾2026零售机大横评补档链接
+>**若批评不自由，则赞美无意义**
+
+
 >链接失效、有下面没有提到的相关仓库或其它问题请及时[提交issue](https://github.com/CN-LPani/GeekerWan-Backup/issues/new)，本人忙，有时不一定即使补上，可以看看相关仓库
 
 ## 免登录不限速
 ### 1. QQ闪传（14天自动销毁）
-#### 1.1 [https://qfile.qq.com/q/iClj9WALuw](https://qfile.qq.com/q/iClj9WALuw)（更新于2026.2.23）
+#### 1.1 [https://qfile.qq.com/q/wmvKEEvFdK](https://qfile.qq.com/q/wmvKEEvFdK)（更新于2026.3.08）
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
-├─ [CC字幕]零售机_游戏性能大横评_2026.srt
-├─ [封面]零售机_游戏性能大横评_2026.jpg
-├─ [视频]零售机_游戏性能大横评_2026.mp4
-```
-#### 1.2 [https://qfile.qq.com/q/j7UDQhrU8U](https://qfile.qq.com/q/j7UDQhrU8U)（更新于2026.2.23）
-```
-手机游戏性能大横评：厂商作弊太疯狂！
-├─ 带弹幕版本（up主这里是红版啊）
+├─ 带弹幕录屏版本
+   ├─[4K]带弹幕版本（酷安用户 美味可达鸭）.mp4
+   └─[1080p]带弹幕版本（b站用户 这里是红版啊）.mp4
 ├─ 各厂商单独剪辑版（up主我是李某人他兄弟）
 │  ├─ 米.mp4
 │  ├─ 荣耀.mp4
@@ -36,7 +34,7 @@
 └─ [CC字幕]零售机_游戏性能大横评_2026.zip
 ```
 ### 3. 文叔叔（7天销毁，分享流量500m，用完需要购买流量包）
-#### 3.1 [https://www.wenshushu.cn/f/j9fi4a0uoys/folder/j9fhtwckxet ](https://www.wenshushu.cn/f/j9fi4a0uoys/folder/j9fhtwckxet)（更新于2026.3.2）
+#### 3.1 [https://www.wenshushu.cn/f/j9fi4a0uoys/folder/j9fhtwckxet ](https://www.wenshushu.cn/f/j9fi4a0uoys/folder/j9fhtwckxet)（更新于2026.3.08）
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
 ├─ 带弹幕版本（up主这里是红版啊）
