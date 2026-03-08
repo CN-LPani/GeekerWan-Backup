@@ -117,6 +117,9 @@
 ### 2. 米游社
 #### 2.1 [用户 贪吃的烧花鸭](https://www.miyoushe.com/ys/article/73482205)
 
+### 3.Cloudflare Pages
+#### 3.1 [极客湾-手机2026游戏性能大横评（补档）4K 60FPS](https://geekwan.pages.dev)
+
 # 相关仓库
 ### 1. [Geekerwan2026PhoneReview](https://github.com/Coriginbe/Geekerwan2026PhoneReview)
 
