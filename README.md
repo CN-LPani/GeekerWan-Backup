@@ -61,7 +61,7 @@
 ```
 #### 4.2 [Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup/releases) （更新于2026.2.25）
 在网页中便捷下载
-> [Github Pages](https://maicy0609.github.io)
+> [Github Pages](https://maicy0609.github.io/Video_Backup/video_backup.html)
 > 
 > [大陆专属](https://scout-qcwu.upma.site)
 
