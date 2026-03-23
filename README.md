@@ -3,11 +3,9 @@
 
 >链接失效、有下面没有提到的相关仓库或其它问题请及时[提交issue](https://github.com/CN-LPani/GeekerWan-Backup/issues/new)，本人忙，有时不一定即使补上，可以看看相关仓库
 
->2026.3.22更新：忘续文叔叔了【大哭】，导致现在文件销毁需要重新上传，qq也应该过期了，然而主播走读回家没时间得找机会上传，所以明天看看吧（）
-
 ## 免登录不限速
 ### 1. QQ闪传（14天自动销毁）
-#### 1.1 [https://qfile.qq.com/q/wmvKEEvFdK](https://qfile.qq.com/q/wmvKEEvFdK)（更新于2026.3.8）
+#### 1.1 [https://qfile.qq.com/q/JoMeCYAFuU](https://qfile.qq.com/q/JoMeCYAFuU)（更新于2026.3.23）
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
 ├─ 带弹幕录屏版本
@@ -35,7 +33,7 @@
 └─ [CC字幕]零售机_游戏性能大横评_2026.zip
 ```
 ### 3. 文叔叔（7天销毁，分享流量500m，用完需要购买流量包）
-#### 3.1 [https://www.wenshushu.cn/f/j9fi4a0uoys/folder/j9fhtwckxet ](https://www.wenshushu.cn/f/j9fi4a0uoys/folder/j9fhtwckxet)（更新于2026.3.15）
+#### 3.1 [https://c.wss.ink/f/jhjkgm01a91](https://c.wss.ink/f/jhjkgm01a91)（更新于2026.3.23）
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
 ├─ 带弹幕版本（up主这里是红版啊）
