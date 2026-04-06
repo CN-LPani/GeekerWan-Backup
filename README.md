@@ -5,7 +5,7 @@
 
 ## 免登录不限速
 ### 1. QQ闪传（14天自动销毁）
-#### 1.1 [https://qfile.qq.com/q/JoMeCYAFuU](https://qfile.qq.com/q/JoMeCYAFuU)（更新于2026.3.23）
+#### 1.1 [https://qfile.qq.com/q/QlnC3zuWae](https://qfile.qq.com/q/QlnC3zuWae)（更新于2026.4.6）
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
 ├─ [CC字幕]零售机_游戏性能大横评_2026.srt.srt
@@ -21,7 +21,7 @@
    └─ 荣耀.mp4
 ```
 ### 2. 蓝奏云（永久）
-#### 2.1 [https://lpani.lanzouq.com/b0fq76fza  ](https://lpani.lanzouq.com/b0fq76fza  )（密码:a8vg）（更新于2026.2.23）
+#### 2.1 [https://lpani.lanzouq.com/b0fq76fza](https://lpani.lanzouq.com/b0fq76fza)（密码:a8vg）（更新于2026.2.23）
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
 ├─ 各厂商单独剪辑版（up主我是李某人他兄弟）
@@ -33,7 +33,7 @@
 └─ [CC字幕]零售机_游戏性能大横评_2026.zip
 ```
 ### 3. 文叔叔（7天销毁，分享流量500m，用完需要购买流量包）
-#### 3.1 [https://c.wss.ink/f/jhjkgm01a91](https://c.wss.ink/f/jhjkgm01a91)（更新于2026.3.23）
+#### 3.1 []()（更新于2026.3.23）
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
 ├─ [CC字幕]零售机_游戏性能大横评_2026.srt.srt
