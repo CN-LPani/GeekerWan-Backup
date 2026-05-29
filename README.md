@@ -5,7 +5,7 @@
 
 ## 免登录不限速
 ### 1. QQ闪传（14天自动销毁）
-#### 1.1 [https://qfile.qq.com/q/QlnC3zuWae](https://qfile.qq.com/q/QlnC3zuWae)（更新于2026.4.6）
+#### 1.1 [https://qfile.qq.com/q/SZqJFSTfC6](https://qfile.qq.com/q/SZqJFSTfC6)（更新于2026.4.6）
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
 ├─ [CC字幕]零售机_游戏性能大横评_2026.srt.srt
@@ -33,7 +33,7 @@
 └─ [CC字幕]零售机_游戏性能大横评_2026.zip
 ```
 ### 3. 文叔叔（7天销毁，分享流量500m，用完需要购买流量包）
-#### 3.1 []()（更新于2026.3.23）
+#### 3.1 [https://c.wss.ink/f/k0nijka7bxh](https://c.wss.ink/f/k0nijka7bxh)（更新于2026.3.23）
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
 ├─ [CC字幕]零售机_游戏性能大横评_2026.srt.srt
