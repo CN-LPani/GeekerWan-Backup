@@ -33,7 +33,7 @@
 └─ [CC字幕]零售机_游戏性能大横评_2026.zip
 ```
 ### 3. 文叔叔（7天销毁，分享流量500m，用完需要购买流量包）
-#### 3.1 [https://c.wss.ink/f/k0nijka7bxh](https://c.wss.ink/f/k0nijka7bxh)（更新于2026.5.29）
+#### 3.1 [https://c.wss.ink/f/k2xpht1ss10](https://c.wss.ink/f/k2xpht1ss10)（更新于2026.6.6）
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
 ├─ [CC字幕]零售机_游戏性能大横评_2026.srt.srt
